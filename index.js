@@ -63,7 +63,7 @@ fs.writeFile(filename, readmeContent,
 
 // TODO: Create a function to initialize app
 function init() {
-inquirer.createPromptModule(questions).then((answers) => {
+inquirer.prompt(questions).then((answers) => {
   writeToFile('README.md', answers);
 });
 }
