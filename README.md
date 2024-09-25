@@ -28,7 +28,7 @@
   No formal tests are included, but you can easily test the overall functionality of the program by simply running it multiple times with different inputs. Generally this will test how the README.md file changes and reacts to said changes.
 
   ## License
-  This project is licensed under the This project is licensed under the MIT license. 
+  This project is licensed under the 'MIT' license. 
 
   ## Questions
   If you have any questions you can reach me via:
